@@ -81,7 +81,7 @@ task-manager/
 ### 1️⃣ 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/task-manager.git
+git clone https://github.com/LSXH571/task-manager.git
 cd task-manager
 ```
 
